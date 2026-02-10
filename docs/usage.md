@@ -16,3 +16,4 @@ Notes and usage details for dynamic-environment.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
